@@ -1,0 +1,74 @@
+{
+  "clientes": [
+    {
+    "nombre": "Miguel",
+    "email": "joel23alanya@gmail.com",
+    "telefono": "970156088",
+    "empresa": "Gloria",
+    "id": 27
+    },
+    {
+    "nombre": "Alfonso",
+    "email": "joel23alanya@gmail.com",
+    "telefono": "970156088",
+    "empresa": "Gloria",
+    "id": 28
+    },
+    {
+    "nombre": "Alfonso",
+    "email": "joel23alanya@gmail.com",
+    "telefono": "21312",
+    "empresa": "Gloria",
+    "id": 29
+    },
+    {
+    "nombre": "Alfonso",
+    "email": "joel23alanya@gmail.com",
+    "telefono": "970156088",
+    "empresa": "Gloria",
+    "id": 30
+    },
+    {
+    "nombre": "Alfonso",
+    "email": "joel23alanya@gmail.com",
+    "telefono": "970156088",
+    "empresa": "Gloria",
+    "id": 31
+    },
+    {
+    "nombre": "Alfonso",
+    "email": "joel23alanya@gmail.com",
+    "telefono": "970156088",
+    "empresa": "Gloria",
+    "id": 32
+    },
+    {
+    "nombre": "Alfonso",
+    "email": "joel23alanya@gmail.com",
+    "telefono": "970156088",
+    "empresa": "Gloria",
+    "id": 33
+    },
+    {
+    "nombre": "Alfonso",
+    "email": "joel23alanya@gmail.com",
+    "telefono": "970156088",
+    "empresa": "Gloria",
+    "id": 34
+    },
+    {
+    "nombre": "Alfonso",
+    "email": "joel23alanya@gmail.com",
+    "telefono": "970156088",
+    "empresa": "Gloria",
+    "id": 35
+    },
+    {
+    "nombre": "asdadsds",
+    "email": "marketing@empresa.com",
+    "telefono": "adssdsda",
+    "empresa": "asdas",
+    "id": 36
+    }
+    ]
+}
